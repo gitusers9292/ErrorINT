@@ -1,1 +1,1 @@
-from toutatis.core import *
+from toutatis.error import *
