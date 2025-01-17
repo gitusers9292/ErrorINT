@@ -12,7 +12,7 @@ setup(
     long_description="It is a tool written to retrieve private information such as Phone Number, Mail Address, ID on Instagram accounts via API.",
     include_package_data=True,
     url='http://github.com/gitusers9292/ErrorINT',
-    entry_points = {'console_scripts': ['ErrorINT = ErrorINT.core:main']},
+    entry_points = {'console_scripts': ['toutatis = toutatis.core:main']},
     classifiers=[
         "Programming Language :: Python",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
